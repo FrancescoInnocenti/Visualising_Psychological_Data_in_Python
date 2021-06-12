@@ -9,3 +9,21 @@ The notebook walks you through all the basic steps to producing visualisations, 
 To make the tutorial more engaging, some interactive visualisations are included, and many plots are demonstrated with data from recently published studies in the behavioural sciences.
 
 If you have any further suggestions for this notebook, feel free to get in touch: infr.management@gmail.com
+
+---
+## Tutorial overview
+
+1. Setting up our coding environment
+2. Loading Excel files
+3. Basic data indexing
+4. Visualisations
+
+   * Histograms
+   * Density plots
+   * Scatterplots
+   * Bar plots
+   * Line plots
+   * Violin plots
+
+5. Exporting your figure
+6. Further resources
