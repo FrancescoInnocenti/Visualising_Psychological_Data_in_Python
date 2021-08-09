@@ -4,7 +4,7 @@ This repository hosts a notebook introduction to producing **publication-quality
 
 ![](https://github.com/FrancescoInnocenti/Visualising_Psychological_Data_in_Python/blob/main/figures/combined_plots_figure.png)
 
-The notebook walks you through all the basic steps to producing visualisations, from loading Excel files to exporting your figure. We cover many graphs commonly seen in psychological research, including histograms, density plots, scatterplots, bar plots, line plots, and violin plots. When considering scatterplots, we also look at how to make multipanel figures, i.e. figures with multiple embedded plots or subplots. In addition, because certain plots rely on specific experimental designs, under the bar plot section we look at how to code your own factorial design, with as many variables and levels as needed.
+The notebook walks you through all the basic steps to producing visualisations, from loading Excel files to exporting your figure. We cover many graphs commonly seen in psychological research, including histograms, density plots, scatterplots, bar plots, line plots, and violin plots. When considering scatterplots, we also look at how to make multipanel figures, i.e. figures with multiple embedded plots or subplots. In addition, because certain plots rely on specific experimental designs, we look at how to code your own factorial design, with as many variables and levels as needed.
 
 To make the tutorial more engaging, some interactive visualisations are included, and many plots are demonstrated with data from recently published studies in the behavioural sciences.
 
