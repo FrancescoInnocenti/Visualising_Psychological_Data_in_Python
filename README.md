@@ -8,7 +8,7 @@ The notebook walks you through all the basic steps to producing visualisations, 
 
 To make the tutorial more engaging, some interactive visualisations are included, and many plots are demonstrated with data from recently published studies in the behavioural sciences.
 
-If you have any further suggestions for this notebook, feel free to get in touch: infr.management@gmail.com
+If you have any further suggestions for this notebook, feel free to get in touch: F.Innocenti@sussex.ac.uk
 
 ---
 ## Tutorial overview
