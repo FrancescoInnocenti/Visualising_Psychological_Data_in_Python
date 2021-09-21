@@ -1,5 +1,7 @@
 # 📊📈 Visualising Psychological Data in Python: A Tutorial 📉📊
 
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FrancescoInnocenti/Visualising_Psychological_Data_in_Python/blob/main/tutorial.ipynb)
+
 This repository provides a notebook introduction to producing **publication-quality 
 figures** for psychological data in Python. You can run the notebook in [Google 
 Colaboratory](https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#), 
